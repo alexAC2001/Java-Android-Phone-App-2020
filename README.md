@@ -3,7 +3,7 @@ This was a solo project created in Android Studio that replicated a contacts app
 
 # Add Contact
 Here is the screen for adding a new contact. When the information is filled out, the user can click the 'OK' button to add the new contact.
-![Screenshot_20220616-044538](https://user-images.githubusercontent.com/62003762/174064314-4e254df2-731d-41d3-bd3c-5a9503e57fbd.jpg)
+![image](https://user-images.githubusercontent.com/62003762/174065365-284da058-e646-4e4a-bd0e-026d3ec6233b.png)
 
 # Contacts
 Here is the contacts screen, showing all the contacts the user created. Each is shown with a name, age, and profile picture.
