@@ -11,6 +11,7 @@ Here is the contacts screen, showing all the contacts the user created. Each is 
 
 # Options
 If the user clicks and holds on a single contact, a submenu appears with several actions. The user can call or text the contact with the saved phone number. They can email the contact with the saved email address. 
+
 ![image](https://user-images.githubusercontent.com/62003762/174065525-f476b1af-35ce-4495-923f-0000f1ec1341.png)
 
 The user can edit and delete the contact. They can even locate the contact, which will open Google Maps and insert the saved location in the search bar.
