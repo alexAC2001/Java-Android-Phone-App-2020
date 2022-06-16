@@ -15,4 +15,5 @@ If the user clicks and holds on a single contact, a submenu appears with several
 ![image](https://user-images.githubusercontent.com/62003762/174065525-f476b1af-35ce-4495-923f-0000f1ec1341.png)
 
 The user can edit and delete the contact. They can even locate the contact, which will open Google Maps and insert the saved location in the search bar.
+
 ![image](https://user-images.githubusercontent.com/62003762/174065592-64188a45-e0c2-4f52-afec-d750a97bc74a.png)
